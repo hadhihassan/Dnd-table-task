@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 'use client'
 import { LogOut, Moon, Settings, Sun, User } from 'lucide-react'
 import React from 'react'
