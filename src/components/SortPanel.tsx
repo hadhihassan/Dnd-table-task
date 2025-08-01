@@ -146,6 +146,9 @@ export const SortPanel = ({
                             ))}
                     </div>
                 </CardContent>
+
+                <Separator className="my-5 py-5" />
+
                 <CardFooter className="flex justify-end gap-4 w-full">
                     <Button
                         className="text-sm"
